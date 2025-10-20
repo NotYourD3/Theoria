@@ -1,5 +1,5 @@
-im vibe coding all the way blablablabla
+Adds a unique theory system to minecraft.
 
-if you see me code like a piece of shit ,then it is,becuz ai is stupid(so am i).
+use command /theory to grant or revoke player theory.
 
-you can contribute this piece of shit and make it better.
+contains a example theory category.
