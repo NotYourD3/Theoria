@@ -1,0 +1,25 @@
+{
+  "theoria.theory_category.starter_root": "Starter Technologies",
+
+  "theoria.theory.basic_crafting.title": "Basic Crafting",
+  "theoria.theory.basic_crafting.subtitle": "A humble beginning.",
+  "theoria.theory.basic_crafting.description": "Learn to use the Crafting Table to combine simple materials into more complex items. This is the cornerstone of all invention.",
+
+  "theoria.theory.smelting.title": "Smelting",
+  "theoria.theory.smelting.subtitle": "Harnessing the heat.",
+  "theoria.theory.smelting.description": "Discover how to build and use a Furnace to cook food and refine raw ores into usable metals. Requires Basic Crafting.",
+
+  "theoria.theory.iron_smelting.title": "Iron Age",
+  "theoria.theory.iron_smelting.subtitle": "The first true metal.",
+  "theoria.theory.iron_smelting.description": "Smelt your first Iron Ore to obtain Iron Ingots. This opens the door to durable tools and armor. Requires Smelting.",
+
+  "theoria.theory.basic_farming.title": "Cultivation",
+  "theoria.theory.basic_farming.subtitle": "Turning dirt into sustenance.",
+  "theoria.theory.basic_farming.description": "Craft a Hoe and learn to till the earth, preparing the land for planting crops. Essential for self-sufficiency. Requires Basic Crafting.",
+
+  "theoria.theory.animal_breeding.title": "Animal Husbandry",
+  "theoria.theory.animal_breeding.subtitle": "Multiplying your resources.",
+  "theoria.theory.animal_breeding.description": "Use harvested crops (like Wheat) to feed and breed passive mobs, securing a renewable source of food and materials. Requires Cultivation.",
+
+  "item.theoria.knowledge_scroll": "Knowledge Scroll"
+}

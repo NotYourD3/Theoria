@@ -1,0 +1,20 @@
+{
+  "type": "goal",
+  "category": "theoria:starter_root",
+  "color": "A5E5E5",
+  "dependencies": [
+    "theoria:basic_crafting"
+  ],
+  "description": {
+    "translate": "theoria.theory.smelting.description"
+  },
+  "icon": "minecraft:furnace",
+  "subTitle": {
+    "translate": "theoria.theory.smelting.subtitle"
+  },
+  "title": {
+    "translate": "theoria.theory.smelting.title"
+  },
+  "x": 150,
+  "y": 40
+}

@@ -1,0 +1,17 @@
+{
+  "type": "task",
+  "category": "theoria:starter_root",
+  "color": "ACEF85",
+  "description": {
+    "translate": "theoria.theory.basic_crafting.description"
+  },
+  "icon": "minecraft:crafting_table",
+  "subTitle": {
+    "translate": "theoria.theory.basic_crafting.subtitle"
+  },
+  "title": {
+    "translate": "theoria.theory.basic_crafting.title"
+  },
+  "x": 100,
+  "y": 40
+}

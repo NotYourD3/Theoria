@@ -1,0 +1,20 @@
+{
+  "type": "challenge",
+  "category": "theoria:starter_root",
+  "color": "F5C93F",
+  "dependencies": [
+    "theoria:smelting"
+  ],
+  "description": {
+    "translate": "theoria.theory.iron_smelting.description"
+  },
+  "icon": "minecraft:iron_ingot",
+  "subTitle": {
+    "translate": "theoria.theory.iron_smelting.subtitle"
+  },
+  "title": {
+    "translate": "theoria.theory.iron_smelting.title"
+  },
+  "x": 200,
+  "y": 40
+}

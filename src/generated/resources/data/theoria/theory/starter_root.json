@@ -1,0 +1,7 @@
+{
+  "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+  "icon": "minecraft:grass_block",
+  "title": {
+    "translate": "theoria.theory_category.starter_root"
+  }
+}

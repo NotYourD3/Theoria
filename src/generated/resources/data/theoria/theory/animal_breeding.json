@@ -1,0 +1,20 @@
+{
+  "type": "goal",
+  "category": "theoria:starter_root",
+  "color": "89B958",
+  "dependencies": [
+    "theoria:basic_farming"
+  ],
+  "description": {
+    "translate": "theoria.theory.animal_breeding.description"
+  },
+  "icon": "minecraft:wheat",
+  "subTitle": {
+    "translate": "theoria.theory.animal_breeding.subtitle"
+  },
+  "title": {
+    "translate": "theoria.theory.animal_breeding.title"
+  },
+  "x": 150,
+  "y": 100
+}

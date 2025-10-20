@@ -1,0 +1,20 @@
+{
+  "type": "task",
+  "category": "theoria:starter_root",
+  "color": "597BA6",
+  "dependencies": [
+    "theoria:basic_crafting"
+  ],
+  "description": {
+    "translate": "theoria.theory.basic_farming.description"
+  },
+  "icon": "minecraft:wooden_hoe",
+  "subTitle": {
+    "translate": "theoria.theory.basic_farming.subtitle"
+  },
+  "title": {
+    "translate": "theoria.theory.basic_farming.title"
+  },
+  "x": 100,
+  "y": 100
+}
